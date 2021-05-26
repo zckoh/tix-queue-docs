@@ -44,10 +44,10 @@ Written below are the detailed documentation for the help queue application.
 
 Below are the links to the GitHub repositories related to this project:
 
--   help-queue-react (Frontend) - https://github.com/zckoh/help-queue-react
--   help-queue-spring (Backend) - https://github.com/zckoh/help-queue-spring
--   help-queue-devops (DevOps) - https://github.com/zckoh/help-queue-devops
--   help-queue-docs (Documentation) - https://github.com/zckoh/help-queue-docs
+-   tix-queue-react (Frontend) - https://github.com/zckoh/tix-queue-react
+-   tix-queue-spring (Backend) - https://github.com/zckoh/tix-queue-spring
+-   tix-queue-devops (DevOps) - https://github.com/zckoh/tix-queue-devops
+-   tix-queue-docs (Documentation) - https://github.com/zckoh/tix-queue-docs
 
 ### **Link to JIRA Board**
 
